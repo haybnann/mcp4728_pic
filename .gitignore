@@ -1,0 +1,6 @@
+incubator.X/dist/
+incubator.X/build/
+incubator.X/nbproject/Makefile-*
+incubator.X/nbproject/private/
+incubator.X/nbproject/Package-*
+**/build

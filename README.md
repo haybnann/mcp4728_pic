@@ -1,2 +1,4 @@
 # mcp4728_pic
-PIC18 MCP4728 demo
+PIC18F47Q43 with MCP4728 Quad channel DAC Demo  
+
+
